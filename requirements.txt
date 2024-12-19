@@ -1,0 +1,4 @@
+yagmail
+keyring
+pandas
+openpyxl  # Se você estiver usando esse para ler arquivos Excel
